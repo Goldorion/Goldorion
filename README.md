@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Java.
-- 💬 Ask me about History & Prehistory, Minecraft or THe Legend of Zelda.
+- 💬 I love History/Prehistory, the Universe, Minecraft and The Legend of Zelda (TP & BOTW ❤).
 - 📫 How to reach me: Discord - Goldorion#6027
 - ⚡ Fun fact: I like putin, but I don't like Putin. 
 
