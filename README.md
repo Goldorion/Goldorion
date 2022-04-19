@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Java.
-- 💬 I love The Legend of Zelda (BOTW games ❤), Xenoblade Chronicles, Ori, cartoons.
+- 🌱 I’m currently learning LWJGL.
+- 💬 I love adventure (narrative) games, Civilization VI and cartoons.
 - 📫 How to reach me: Discord - Goldorion#2702  || Twitter - @Goldorion_
-- ⚡ Fun fact: I like poutine, but I don't like Putin. 
+- ⚡ Fun fact: I like poutine, but I hate Putin. 
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=Goldorion&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
