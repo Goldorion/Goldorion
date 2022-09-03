@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently learning LWJGL.
-- 💬 I love adventure (narrative) games, Civilization VI and cartoons.
-- 📫 How to reach me: Discord - Goldorion#2702  || Twitter - @Goldorion_
-- ⚡ Fun fact: I like poutine, but I hate Putin. 
+- 🌱 I’m currently learning Java/LWJGL.
+- 💬 I love adventure (narrative) games, Civilization VI and animes & cartoons.
+- 📫 How to reach me: Discord - Goldorion#001  || Twitter - @Goldorion_
+- ⚡ Fun fact: Poutine is the best meal
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=Goldorion&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
