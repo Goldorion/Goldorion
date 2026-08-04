@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Java and how to draw.
+- 🌱 I’m learning Java and sometimes C#.
 - 💬 I love adventure (narrative) and strategy/tactical games, and animes & cartoons.
-- 📫 How to reach me: Discord - Goldorion#5833  || Twitter - @Goldorion_
-- ⚡ Fun fact: Poutine is the best meal
+- 📫 How to reach me: Discord - Goldorion  || Twitter - @Goldorion_
+- ⚡ Poutine is the best meal and apples are the best snacks
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=Goldorion&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats](https://github-stats-extended.vercel.app/api?username=Goldorion)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldorion&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Goldorion&theme=algolia&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
